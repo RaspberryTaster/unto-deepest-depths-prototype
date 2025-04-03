@@ -16,7 +16,7 @@ unique_name_in_owner = true
 unique_name_in_owner = true
 position = Vector2(0, -15)
 sprite_frames = ExtResource("3_viucn")
-animation = &"idle"
+animation = &"attack"
 
 [node name="abilities_db" parent="." instance=ExtResource("3_swa4a")]
 unique_name_in_owner = true
